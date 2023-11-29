@@ -20,4 +20,4 @@ Route::get('/', function () {
 
 Route::get('/contacts', [ContactsController::class, 'index']);
 
-//Route::get('/contacts', [ContactsController::class, 'index']);
+Route::get('/exchange', [ExchangeController::class, 'index']);
