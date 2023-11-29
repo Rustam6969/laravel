@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Return</h1>
+    <h2>Exchange</h2>
     <p><a href="https://laravel.com/"></a></p>
 </body>
 </html>
